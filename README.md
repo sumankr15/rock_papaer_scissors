@@ -1,1 +1,1 @@
-![App Screenshot](images/rps.png)
+![App Screenshot](ss/rps.png)
